@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://convertsimple.netlify.app/sitemap.xml
